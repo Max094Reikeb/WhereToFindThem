@@ -1,0 +1,22 @@
+#FILES FOR INTELLIJ IDEA
+#=======================
+.idea/
+
+#FILES FOR GRADLE
+#=======================
+.gradle
+/build/
+**/build/
+
+#SYSTEM AND JAVA FILES
+#=====================
+Thumbs.db
+debug.log
+hs_err_pid*
+
+#MACOS
+#=====================
+.DS_Store
+.AppleDouble
+.LSOverride
+/.idea/runConfigurations.xml
